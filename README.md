@@ -1,7 +1,6 @@
-# visual-recognition
 
 
-# Watson Visual Recognition on Node-RED
+# Watson Visual Recognition com Node-RED
 
 Utilizando Watson VR com modelos standard ou customizados através da interface Node-RED.
 
