@@ -18,9 +18,8 @@ https://console.bluemix.net/catalog/services/watson-vision-combined
 
 ### 2. Abra o  Node-RED Flow Editor e importe o código disponível neste repositório (Link abaixo);
 
-Raw Code: https://raw.githubusercontent.com/munhozpf/Watson-VR_on_Node-RED/master/Watson-VR_Node-RED_Flow.json
-
-#### Node-RED Flow:
+Raw Code: 
+#### Node-RED Flow: https://raw.githubusercontent.com/smazon/visual-recognition/master/nodered.json
 
 ![alt text](https://i.imgur.com/oG8FYYF.png)
 
@@ -31,8 +30,8 @@ Raw Code: https://raw.githubusercontent.com/munhozpf/Watson-VR_on_Node-RED/maste
 
 ### 4. Observações:
 
-I. Insert some image URL that ends with '.jpeg' or '.png';
+I. Insira imagens para análise com terminação '.jpeg' or '.png';
 
-II. Choose a custom classifier id (all avaiable custom classifier-ids from your Watson VR service will be showed below the fields) or leave 'default' as classifier id, otherwise the WebApp won't work;
+II. Escolha o custom classifier id para análise (todos os classifier-ids disponíveis do seu serviço de Watson VR serão listados) ou deixe como 'default;
 
-III. Hit Submit button and enjoy the results!
+III. Clique no botão de 'Submit' e aproveite!
