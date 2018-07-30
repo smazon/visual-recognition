@@ -34,4 +34,4 @@ I. Insira imagens para análise com terminação '.jpeg' or '.png';
 
 II. Escolha o custom classifier id para análise (todos os classifier-ids disponíveis do seu serviço de Watson VR serão listados) ou deixe como 'default;
 
-III. Clique no botão de 'Submit' e aproveite!
+III. Clique no botão de 'Submit' e veja a resposta do serviço! \o/
